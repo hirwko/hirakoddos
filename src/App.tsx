@@ -552,11 +552,11 @@ function App() {
           <span className="text-sm text-center text-gray-500">
             🎵 v1.0 made by{" "}
             <a
-              href="https://github.com/sammwyy/mikumikubeam"
+              href="https://rzt5.netlify.app/"
               target="_blank"
               rel="noreferrer"
             >
-              @Sammwy
+              @rzt5
             </a>{" "}
             🎵
           </span>
